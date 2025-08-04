@@ -1,0 +1,4 @@
+Name: Aswini Karri
+Course: Bsc.computers
+
+I have learned the account creation and repository creation in GitHub.
